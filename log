@@ -1,0 +1,16 @@
+commit 89a9d372bb3125ab2771fa642324f7df08a3f241
+Author: Abeke Peleowo <fattyadigun@yahoo.com>
+Date:   Mon Jun 19 18:10:26 2023 -0400
+
+     first commit
+
+diff --git a/toyota b/toyota
+new file mode 100644
+index 0000000..c4006ae
+--- /dev/null
++++ b/toyota
+@@ -0,0 +1,4 @@
++corolla
++camry
++corona
++highlander
